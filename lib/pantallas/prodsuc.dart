@@ -99,7 +99,7 @@ class ProdSucPage extends StatelessWidget {
                           onPressed: () => Navigator.pop(context),
                           icon: const Icon(Icons.arrow_back, color: Colors.black, size: 20),
                           label: const Text(
-                            "volver a sucursales", 
+                            "Volver a sucursales", 
                             style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold, fontSize: 14)
                           ),
                           style: ElevatedButton.styleFrom(
